@@ -80,16 +80,7 @@ Most important, enjoy the app!<br>
    `yarn test`
 
 
-## Contributors
 
-**Author**
-
-​**Adetayo Sunkanmi**
-
-- Github: [jstloyal](https://github.com/jstloyal)
-- Twitter: [@jstloyalty](https://twitter.com/jstloyalty)
-- Linkedin: [Adetayo Sunkanmi](https://www.linkedin.com/in/jstloyalty)
-- E-mail: jstloyalty@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 
